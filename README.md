@@ -45,11 +45,11 @@ In addition, it also provides a better solution for authentication. Just sign yo
 
 ### FAQ
 
-Please visit [http://www.airsig.com/vr/](http://www.airsig.com/vr/?utm_source=github&utm_medium=readme&utm_campaign=3d_motion_gesture){:target="_blank"}
+Please visit [http://www.airsig.com/vr/](http://www.airsig.com/vr/?utm_source=github&utm_medium=readme&utm_campaign=3d_motion_gesture)
 
 ### Demo Video and Demo Build
 
-Please visit [https://dev.airsig.com/](https://dev.airsig.com/?utm_source=github&utm_medium=readme&utm_campaign=3d_motion_gesture){:target="_blank"}
+Please visit [https://dev.airsig.com/](https://dev.airsig.com/?utm_source=github&utm_medium=readme&utm_campaign=3d_motion_gesture)
 
 
 

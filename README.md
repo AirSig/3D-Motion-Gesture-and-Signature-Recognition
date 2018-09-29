@@ -1,4 +1,4 @@
-# AirSig 3D-Motion-Gesture-and-Signature-Recognition
+# AirSig 3D Motion Gesture and Signature Recognition
 
 The best 3D motion gesture recognition accuracy you can find. Make your players just like Harry Potter!
 
